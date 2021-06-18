@@ -1,4 +1,6 @@
-# Code challenge: Frontend
+# Code Challenge: UI Engineer
+
+Details: https://company.maybe.co/UI-Engineer-Coding-Challenge-948982a2df7d40b7b4e15738448be529
 
 ## Stack
 
